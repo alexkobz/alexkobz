@@ -7,8 +7,8 @@
 
 ### 🌱 I’m currently learning DS/ML
 
-### How to reach me: 
-- 📫 alexanderkobzarrr@gmail.com
+### 📫 How to reach me: 
+- Email: alexanderkobzarrr@gmail.com
 - Telegram: [@alexkobz](https://t.me/alexkobz)
 
 ## Languages and Tools
