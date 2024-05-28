@@ -1,6 +1,7 @@
 ## Hi there 👋
 ### 👨 I am Alexander Kobzar
 
+### 🎓 The history department of Moscow State University. Master of History
 
 ### 🔭 I’m currently working on 
 - [analysing discourse of democracy in Russia](https://github.com/alexkobz/diplom)
