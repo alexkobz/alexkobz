@@ -15,7 +15,7 @@
 
 ### Languages:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>    <img src="https://github.com/alexkobz/alexkobz/blob/main/icons/sql.png" title="SQL"  alt="SQL" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/>    <img src="https://github.com/alexkobz/alexkobz/blob/main/icons/sql.svg" title="SQL"  alt="SQL" width="55" height="55"/>
 
 
 ### Best frameworks and main libraries for Python3:
@@ -35,4 +35,4 @@
 
 ### OS:
 
-|<img src="https://github.com/alexkobz/alexkobz/blob/main/icons/macos.png" title="MacOS" alt="MacOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> |
+|<img src="https://github.com/alexkobz/alexkobz/blob/main/icons/macos.svg" title="MacOS" alt="MacOS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows11" alt="Windows11" width="55" height="55"/> |
