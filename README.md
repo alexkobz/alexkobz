@@ -21,7 +21,7 @@
 
 ### Best frameworks and main libraries for Python3:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/>    <img src="https://github.com/alexkobz/alexkobz/blob/main/icons/requests.png" title="requests" alt="requests" width="55" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>    <img src="https://github.com/alexkobz/alexkobz/blob/main/icons/scipy.jpeg" title="scipy" alt="scipy" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="matplotlib" alt="matplotlib" width="55" height="55"/>    <img src="https://github.com/alexkobz/alexkobz/blob/main/icons/requests.png" title="requests" alt="requests" width="55" height="55"/>
 
 
 ### Data Manipulation:
