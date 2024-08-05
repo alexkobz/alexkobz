@@ -12,6 +12,9 @@
 - Email: alexanderkobzarrr@gmail.com
 - Telegram: [@alexkobz](https://t.me/alexkobz)
 
+  
+[![LeetCode user ivasik-k7](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fivasik-k7&logo=leetcode&logoColor=yellow)](https://leetcode.com/u/KvadraturaMikhailaKruga/)
+
 ## Languages and Tools
 
 ### Languages:
