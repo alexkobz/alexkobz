@@ -5,6 +5,7 @@
 
 ### 🔭 I’m currently working on 
 - [analysing discourse of democracy in Russia](https://github.com/alexkobz/diplom)
+- [costs_bot](https://github.com/alexkobz/costs_bot)
 
 ### 🌱 I’m currently learning DS/ML
 
