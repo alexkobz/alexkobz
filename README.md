@@ -4,10 +4,13 @@
 ### 🎓 The history department of Moscow State University. Master of History
 
 ### 🔭 I’m currently working on 
-- [analysing discourse of democracy in Russia](https://github.com/alexkobz/diplom)
-- [costs_bot](https://github.com/alexkobz/costs_bot)
+- [Investments bot.](https://github.com/alexkobz/invest_bot) [Notebooks with predictions for bot on Kaggle](https://www.kaggle.com/work/collections/14618447)
 
 ### 🌱 I’m currently learning DS/ML
+
+### 🐶 Pet projects
+- [analysing discourse of democracy in Russia](https://github.com/alexkobz/diplom)
+- [costs_bot](https://github.com/alexkobz/costs_bot)
 
 ### 📫 How to reach me: 
 - Email: alexanderkobzarrr@gmail.com
