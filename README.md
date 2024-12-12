@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 👨 I am Alexander Kobzar
 
-### 🎓 The history department of Moscow State University. Master of History
+### 🎓 The Faculty of History of Lomonosov Moscow State University. Master of History
 
 ### 🔭 I’m currently working on 
 - [Investments bot.](https://github.com/alexkobz/invest_bot) [Notebooks with predictions for bot on Kaggle](https://www.kaggle.com/work/collections/14618447)
