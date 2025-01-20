@@ -35,6 +35,9 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original-wordmark.svg" title="Spark" alt="Spark" width="55" height="55"/>    <img src="https://github.com/alexkobz/alexkobz/blob/main/icons/hive.png" title="Hive" alt="Hive" width="55" height="55"/>    <img src="https://github.com/alexkobz/alexkobz/blob/main/icons/clickhouse.png" title="Clickhouse" alt="Clickhouse" width="55" height="55"/>    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="55" height="55"/>
 
+### BI tools:
+
+<img src="https://avatars.githubusercontent.com/u/42724554?s=200&v=4" title="Superset" alt="Superset" width="55" height="55"/>    <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg" title="Power BI" alt="Power BI" width="55" height="55"/>    <img src="https://github.com/alexkobz/alexkobz/blob/main/icons/mstr.png" title="MicroStartegy" alt="MicroStartegy" width="55" height="55"/>
 
 ### Environments:
 
