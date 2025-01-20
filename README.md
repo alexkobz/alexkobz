@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### 👨 I am Alexander Kobzar
 
-### 🎓 The Faculty of History of Lomonosov Moscow State University. Master of History
+### 🎓 [The Faculty of History of Lomonosov Moscow State University. Master of History](https://github.com/alexkobz/thesis_history)
 
 ### 🔭 I’m currently working on 
 - [Investments bot.](https://github.com/alexkobz/invest_bot) [Notebooks with predictions for bot on Kaggle](https://www.kaggle.com/work/collections/14618447)
@@ -9,7 +9,7 @@
 ### 🌱 I’m currently learning DS/ML
 
 ### 🐶 Pet projects
-- [analysing discourse of democracy in Russia](https://github.com/alexkobz/diplom)
+- [analysing discourse of democracy in Russia](https://github.com/alexkobz/thesis_history)
 - [costs_bot](https://github.com/alexkobz/costs_bot)
 
 ### 📫 How to reach me: 
